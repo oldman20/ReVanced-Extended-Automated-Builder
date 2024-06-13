@@ -7,20 +7,22 @@
 
 ###### 07/AUGUST/2023:
 ### Merged new upstream features...
-* [Custom patch resources](https://github.com/nikhilbadyal/docker-py-revanced/issues/230) are now supported, with per-app configuration options available! For more information about this, [check here](https://github.com/Spacellary/ReVanced-Extended-Automated-Builder/blob/main/readme-history/README-ORIGINAL.md#global-config).
+* [Custom patch resources](https://github.com/nikhilbadyal/docker-py-revanced/issues/230) are now supported, with per-app configuration options available! For more information about this, [check here](https://github.com/nikhilbadyal/docker-py-revanced/blob/main/README.md#global-config).
 
 ###### 15/JULY/2023:
 ### Merged upstream changes...
 * Now with support for **RVX Reddit**.
 
 Also supports the other Reddit clients, such as **RV Sync**.
-* Read the [README-ORIGINAL.md](https://github.com/Spacellary/ReVanced-Extended-Automated-Builds/blob/main/readme-history/README-ORIGINAL.md) for more information about those.
+* Read the [README-ORIGINAL.md](https://github.com/nikhilbadyal/docker-py-revanced/blob/main/README.md) for more information about those.
 
 ###### 23/MARCH/2023:
 ### Builds are now automated!
 Added simple scheduled action that checks for patch updates, and if an update is found, records the new version of patches for future reference and automatically triggers the workflow to build and release the new applications.
 
 <hr>
+
+## Note - If you are a root user and want magisk module (Extended). Get them [here](https://github.com/oldman20/revanced-magisk-ksu-module)
 
 ### Feel free to fork this fork.
 Let the 'forkception' begin!
@@ -46,5 +48,5 @@ Let the 'forkception' begin!
 * [ReVanced Extended](https://github.com/inotia00/revanced-patches/releases/latest) **Reddit** (latest).
 * [ReVanced](https://github.com/revanced/revanced-patches/releases/latest) **Sync for Reddit** (latest).
 
-###### Check [.env](https://github.com/Spacellary/docker-py-revanced/blob/main/.env) for a list of excluded patches and [options.json](https://github.com/Spacellary/docker-py-revanced/blob/main/apks/options.json) for patch options.
-###### Complete and original README can be found [here](https://github.com/Spacellary/ReVanced-Extended-Automated-Builds/blob/main/readme-history/README-ORIGINAL.md).
+###### Check [.env](https://github.com/oldman20/ReVanced-Extended-Automated-Builder/blob/main/.env) for a list of excluded patches and [options.json](https://github.com/oldman20/ReVanced-Extended-Automated-Builder/blob/main/apks/options.json) for patch options.
+###### Complete and original README can be found [here](https://github.com/oldman20/ReVanced-Extended-Automated-Builder/blob/main/readme-history/README-ORIGINAL.md), or from [original repo](https://github.com/nikhilbadyal/docker-py-revanced/blob/main/README.md)
