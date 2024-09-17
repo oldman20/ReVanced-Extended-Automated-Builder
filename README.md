@@ -1,5 +1,6 @@
 ###### 08/MAY/2024:
 ### RVX development was resumed.
+(after discontinued 26th of JANUARY)
 
 <!-- ###### 29/JANUARY/2024:
 ### As of the 26th of this month, RVX has been discontinued...
