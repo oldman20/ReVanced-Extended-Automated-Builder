@@ -2,6 +2,8 @@
 ### RVX development was resumed.
 (after discontinued 26th of JANUARY)
 
+Edit *.envi* same source repo then can sync fork (07.10.2024)
+
 <!-- ###### 29/JANUARY/2024:
 ### As of the 26th of this month, RVX has been discontinued...
 * Repo can still be used as a base to patch the original ReVanced applications, existing versions of Extended or any other fork by editing the [.env](https://github.com/Spacellary/docker-py-revanced/blob/main/.env) file for example. -->
