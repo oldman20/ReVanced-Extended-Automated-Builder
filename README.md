@@ -2,7 +2,7 @@
 ### RVX development was resumed.
 (after discontinued 26th of JANUARY)
 
-Edit *.envi* same source repo then can sync fork (07.10.2024)
+Edit *.env* same source repo then can sync fork (07.10.2024)
 
 <!-- ###### 29/JANUARY/2024:
 ### As of the 26th of this month, RVX has been discontinued...
